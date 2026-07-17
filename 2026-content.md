@@ -11,8 +11,8 @@
 ## Table of Contents
 
 - [Module 1: Enterprise MLOps Fundamentals](#module-1-enterprise-mlops-fundamentals)
-- [Module 2: Python Essentials for MLOps](#module-2-python-essentials-for-mlops)
-- [Module 3: Database & Data Engineering](#module-3-database-data-engineering)
+- [Module 2: Database & Data Engineering](#module-3-database-data-engineering)
+- [Module 3: Python Essentials for MLOps](#module-2-python-essentials-for-mlops)
 - [Module 4: Machine Learning](#module-4-machine-learning)
 - [Module 5: FastAPI](#module-5-fastapi)
 - [Module 6: Containerization with Podman & Docker](#module-6-containerization-with-podman-docker)
