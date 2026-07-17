@@ -125,7 +125,7 @@ Every module in this course is organized into four consistent levels, so student
 
 ---
 
-## Module 2: Python Essentials for MLOps
+## Module 3: Python Essentials for MLOps
 
 **Objective:** Learn only the Python required to build the project.
 
@@ -176,7 +176,7 @@ Every module in this course is organized into four consistent levels, so student
 
 ---
 
-## Module 3: Database & Data Engineering
+## Module 2: Database & Data Engineering
 
 **Objective:** Create and prepare the enterprise dataset.
 
