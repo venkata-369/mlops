@@ -29,7 +29,13 @@ pgAdmin4 Installation Directory: E:\ai-training\postgres-binaries-dont-delete\pg
 Installation Log: C:\Users\venkat\AppData\Local\Temp\install-postgresql.log
 ```
 
-### 4, Git Install 
+### 4, Create a GitHub Account to maintain the application code & notes
+
+```
+https://github.com/
+```
+
+### 5, Git Install 
 ```
 https://git-scm.com/install/windows
 ```
