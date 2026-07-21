@@ -135,7 +135,11 @@ Every module in this course is organized into four consistent levels, so student
 
 - PostgreSQL Installation
 - Database Design
+    - Create Database
+    - SQL (CREATE, ALTER, UPDATE, DELETE, DROP)
+    - SELECT  
 - Customer Schema
+    - CREATE SCHEMA
 - Tables
 - Constraints
 - Indexes
