@@ -4,7 +4,7 @@
 
 **Capstone Project:** *Enterprise E-Commerce Customer Churn Prediction Platform*
 
-**Duration:** 45 Days (60–70 Hours)
+**Duration:** 45 Days (Weekly 5 Days)
 
 ---
 
