@@ -125,57 +125,6 @@ Every module in this course is organized into four consistent levels, so student
 
 ---
 
-## Module 3: Python Essentials for MLOps
-
-**Objective:** Learn only the Python required to build the project.
-
-### Section 1: Python Basics
-
-**Topics**
-
-- Variables
-- Data Types
-- Operators
-- Functions
-- Lists
-- Tuples
-- Dictionaries
-- Loops
-- Conditional Statements
-
-**Hands-on Lab**
-
-- Read CSV
-- Print customer records
-
-### Section 2: Working with Files
-
-**Topics**
-
-- CSV
-- JSON
-- File Handling
-- Exception Handling
-
-**Hands-on Lab**
-
-- Read customer dataset
-
-### Section 3: Python Libraries
-
-**Topics**
-
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn Basics
-
-**Hands-on Lab**
-
-- Perform exploratory data analysis (EDA)
-
----
-
 ## Module 2: Database & Data Engineering
 
 **Objective:** Create and prepare the enterprise dataset.
@@ -239,7 +188,56 @@ Every module in this course is organized into four consistent levels, so student
 - Build feature_engineering.py
 
 ---
+## Module 3: Python Essentials for MLOps
 
+**Objective:** Learn only the Python required to build the project.
+
+### Section 1: Python Basics
+
+**Topics**
+
+- Variables
+- Data Types
+- Operators
+- Functions
+- Lists
+- Tuples
+- Dictionaries
+- Loops
+- Conditional Statements
+
+**Hands-on Lab**
+
+- Read CSV
+- Print customer records
+
+### Section 2: Working with Files
+
+**Topics**
+
+- CSV
+- JSON
+- File Handling
+- Exception Handling
+
+**Hands-on Lab**
+
+- Read customer dataset
+
+### Section 3: Python Libraries
+
+**Topics**
+
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn Basics
+
+**Hands-on Lab**
+
+- Perform exploratory data analysis (EDA)
+
+---
 ## Module 4: Machine Learning
 
 **Objective:** Train the churn prediction model.
