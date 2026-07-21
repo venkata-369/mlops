@@ -1,4 +1,4 @@
-### Prerequisites for MLOps Project
+### Prerequisites for MLOps Project (Our Laptop)
 
 ### 1, Install Visual Code 
 ```
