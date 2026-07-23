@@ -1,4 +1,4 @@
-***customer churn prediction project**, these four tables.
+**customer churn prediction project**, these four tables.
 
 * `customers`
 * `products`
